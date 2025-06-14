@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+.tmp/
+.cache/
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Editor (VSCode)
+.vscode/
+*.code-workspace
+
+# Ambiente / secretos
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Otros
+coverage/
+*.tgz
+*.zip
